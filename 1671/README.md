@@ -111,6 +111,7 @@ Tamanho original do array: 8
 Tamanho da maior montanha: 4
 Elementos a remover: 8 - 4 = 4
 
+#############################################################
 Explanation in English
 Mountain Array
 A mountain array is an array that:
